@@ -1,12 +1,12 @@
-﻿name: Build Windows Forms Application
+name: Build Windows Forms Application
 
 on:
   push:
     branches:
-      - main  # Запускать на push в основную ветку
+      - master  # Запускать на push в основную ветку
   pull_request:
     branches:
-      - main  # Запускать на pull request в основную ветку
+      - master  # Запускать на pull request в основную ветку
 
 jobs:
   build:
