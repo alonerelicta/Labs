@@ -1,0 +1,39 @@
+﻿name: Build Windows Forms Application
+
+on:
+  push:
+    branches:
+      - main  # Запускать на push в основную ветку
+  pull_request:
+    branches:
+      - main  # Запускать на pull request в основную ветку
+
+jobs:
+  build:
+    runs-on: windows-latest  # Используем Windows-агент для сборки
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  # Клонируем репозиторий
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '9.0.x'  # Указываем версию .NET, с которой будет собираться проект (возможно, тебе нужно будет изменить на 7.0 или другую версию, в зависимости от того, что используется в твоем проекте)
+
+      - name: Restore dependencies
+        run: dotnet restore  # Восстанавливаем зависимости проекта
+
+      - name: Build project
+        run: dotnet build --configuration Release  # Сборка проекта в режиме Release
+
+      - name: Run tests (optional)
+        run: dotnet test  # Запуск тестов, если они есть в проекте
+
+      - name: Publish Application
+        run: dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true  # Публикуем проект для Windows
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: MyApp-Release
+          path: bin/Release/net9.0/win-x64/publish  # Путь к папке с опубликованным приложением
