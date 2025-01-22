@@ -1,0 +1,168 @@
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\obj\Debug\LabaInformationTechologics.csproj.AssemblyReference.cache
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\LabaInformationTechologics.exe.config
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\LabaInformationTechologics.exe
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\LabaInformationTechologics.pdb
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Google.Protobuf.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\MySql.Data.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\MySqlConnector.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Pomelo.JsonObject.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Buffers.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Memory.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\ZstdSharp.dll
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Google.Protobuf.pdb
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Google.Protobuf.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\MySql.Data.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\MySqlConnector.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Buffers.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Memory.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\obj\Debug\LabaInformationTechologics.Form1.resources
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\obj\Debug\LabaInformationTechologics.Properties.Resources.resources
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\obj\Debug\LabaInformationTechologics.csproj.GenerateResource.cache
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\obj\Debug\LabaInformationTechologics.csproj.CoreCompileInputs.cache
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\obj\Debug\LabaInfo.F282B553.Up2Date
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\obj\Debug\LabaInformationTechologics.exe
+C:\Users\Karpacho Kapitovsky\source\repos\LabaInformationTechologics\obj\Debug\LabaInformationTechologics.pdb
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\LabaInformationTechologics.exe.config
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\LabaInformationTechologics.exe
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\LabaInformationTechologics.pdb
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Google.Protobuf.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\MySql.Data.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\MySqlConnector.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Pomelo.JsonObject.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Buffers.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Memory.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\ZstdSharp.dll
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Google.Protobuf.pdb
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Google.Protobuf.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\MySql.Data.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\MySqlConnector.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Buffers.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Memory.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\obj\Debug\LabaInformationTechologics.csproj.AssemblyReference.cache
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\obj\Debug\LabaInformationTechologics.Form1.resources
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\obj\Debug\LabaInformationTechologics.Properties.Resources.resources
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\obj\Debug\LabaInformationTechologics.csproj.GenerateResource.cache
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\obj\Debug\LabaInformationTechologics.csproj.CoreCompileInputs.cache
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\obj\Debug\LabaInfo.F282B553.Up2Date
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\obj\Debug\LabaInformationTechologics.exe
+C:\Users\popov\OneDrive\Рабочий стол\ЛР 1-2\obj\Debug\LabaInformationTechologics.pdb
